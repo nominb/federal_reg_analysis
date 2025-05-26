@@ -44,7 +44,7 @@ python3 -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
 
-#Run scraper (optional)
+#Run scraper 
 python scrape_and_load.py
 
 #Start API
